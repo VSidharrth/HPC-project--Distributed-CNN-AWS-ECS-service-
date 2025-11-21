@@ -1,0 +1,2 @@
+Wall-clock: 3468.29s
+Val Acc: 0.9095 | Test Acc: 0.9055

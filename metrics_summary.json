@@ -1,0 +1,15 @@
+{
+    "total_training_wallclock_s": 3468.2879045009613,
+    "val_time_s": 14.904474258422852,
+    "test_time_s": 13.749698162078857,
+    "train_throughput": 0.6542132782735284,
+    "test_throughput": 35.418959329822044,
+    "val_accuracy": 0.9094650149345398,
+    "test_accuracy": 0.9055441617965698,
+    "val_loss": 0.2752492129802704,
+    "test_loss": 0.26882678270339966,
+    "per_process_train_times_s": [
+        3468.2879045009613,
+        3468.2879045009613
+    ]
+}

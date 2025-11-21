@@ -1,0 +1,22 @@
+# Core Deep Learning
+tensorflow==2.15.0
+
+# MPI for parallel processing
+mpi4py==3.1.5
+
+# Data processing
+numpy==1.24.3
+pandas==2.1.4
+
+# Image processing
+Pillow==10.1.0
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Model evaluation
+scikit-learn==1.3.2
+
+# System utilities
+psutil==5.9.6
