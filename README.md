@@ -746,5 +746,3 @@ The most important HPC finding is that **the two-process experiment did not prov
 B.Tech Artificial Intelligence and Data Science  
 Amrita Vishwa Vidyapeetham, Bengaluru
 ---
-
-Academic Project — Team 5
